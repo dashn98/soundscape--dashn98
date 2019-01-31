@@ -7,7 +7,11 @@ https://freesound.org/people/FedeFrede/sounds/324138/
 Car Driving  
 https://freesound.org/people/luminadii/sounds/336754/  
 Car Door Shut  
-https://freesound.org/people/jpkweli/sounds/154751/
+https://freesound.org/people/jpkweli/sounds/154751/  
+Putting on Ballet Shoes  
+https://freesound.org/people/morganveilleux/sounds/390003/  
+Dancing in Ballet Shoes  
+https://freesound.org/people/morganveilleux/sounds/389986/
 
 Music:  
 
@@ -16,12 +20,19 @@ Chances
 THE DEVIL MUSIC CO.   
 https://www.jamendo.com/track/1586071/chances  
 
+The Nutcracker Suite: Marche
+LEO LAGO
+https://www.jamendo.com/track/884269/the-nutcracker-suite-marche  
+
+
 http://dig.ccmixter.org/  
 Don't Kill the Freak Night Beat  
 septahelix
 http://dig.ccmixter.org/files/septahelix/58959  
 
-All other sounds:  
-Self recorded on personal iphone
+
+Other sounds:  
+Walking - Recorded by Emma  
+All other - Self recorded on personal iphone
 
 
