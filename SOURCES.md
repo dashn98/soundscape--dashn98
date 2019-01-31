@@ -1,6 +1,6 @@
 Sources:  
 
-Car Sounds: 
+Car Sounds:  
 https://freesound.org/  
 Car Start
 https://freesound.org/people/FedeFrede/sounds/324138/  
@@ -11,7 +11,10 @@ https://freesound.org/people/jpkweli/sounds/154751/
 Putting on Ballet Shoes  
 https://freesound.org/people/morganveilleux/sounds/390003/  
 Dancing in Ballet Shoes  
-https://freesound.org/people/morganveilleux/sounds/389986/
+https://freesound.org/people/morganveilleux/sounds/389986/  
+Clapping  
+https://freesound.org/people/kellieskitchen/sounds/209991/  
+
 
 Music:  
 
