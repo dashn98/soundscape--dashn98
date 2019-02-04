@@ -1,8 +1,8 @@
 Sources:  
 
 Sounds:  
-These sounds are all liscense under Creative Commons  
 https://freesound.org/  
+These sounds are all liscense under Creative Commons  
 Car Start
 https://freesound.org/people/FedeFrede/sounds/324138/  
 Car Driving  
@@ -29,8 +29,9 @@ Produced by Justin Kay
 Liscensed under Creative Commons  
 https://www.jamendo.com/track/1586071/chances  
 
-The Nutcracker Suite: Marche
-LEO LAGO
+The Nutcracker Suite: Marche  
+LEO LAGO  
+Liscensed under Creative Commons  
 https://www.jamendo.com/track/884269/the-nutcracker-suite-marche  
 
 
@@ -41,7 +42,8 @@ http://dig.ccmixter.org/files/septahelix/58959
 
 
 Other sounds:  
-Walking - Recorded by Emma  
+All other sounds are original by myself or classmates and therefore fair use  
+Walking - Recorded by Emma (Permission from Emma)  
 All other - Self recorded on personal iphone
 
 
