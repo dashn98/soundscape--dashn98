@@ -6,5 +6,7 @@ Please see [PREVIEW.md](https://github.com/pitt-cdm/soundscape--dashn98/blob/mas
 Please see [DRAFT.md](https://github.com/pitt-cdm/soundscape--dashn98/blob/master/DRAFT.md) for my draft explanation  
 Please see [ASSETS.md](https://github.com/pitt-cdm/soundscape--dashn98/blob/master/ASSETS.md) for my assests  
 Please see [SOURCES.md](https://github.com/pitt-cdm/soundscape--dashn98/blob/master/SOURCES.md) for my sources   
-Please see [soundscape.mp3](https://github.com/pitt-cdm/soundscape--dashn98/blob/master/soundscape.mp3) for my soundscape 
+Please see [soundscape.mp3](https://github.com/pitt-cdm/soundscape--dashn98/blob/master/soundscape.mp3) for my soundscape  
+Please see [Soundscape Screenshot](https://github.com/pitt-cdm/soundscape--dashn98/blob/master/Soundscape%20Screenshot.PNG) for an updated screenshot of my progress  
+
 
