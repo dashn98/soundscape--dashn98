@@ -1,6 +1,7 @@
 Sources:  
 
-Car Sounds:  
+Sounds:  
+These sounds are all liscense under Creative Commons
 https://freesound.org/  
 Car Start
 https://freesound.org/people/FedeFrede/sounds/324138/  
@@ -14,6 +15,8 @@ Dancing in Ballet Shoes
 https://freesound.org/people/morganveilleux/sounds/389986/  
 Clapping  
 https://freesound.org/people/kellieskitchen/sounds/209991/  
+Applause  
+https://freesound.org/people/Sandermotions/sounds/277022/  
 
 
 Music:  
