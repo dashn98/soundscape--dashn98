@@ -1,7 +1,7 @@
 Sources:  
 
 Sounds:  
-These sounds are all liscense under Creative Commons
+These sounds are all liscense under Creative Commons  
 https://freesound.org/  
 Car Start
 https://freesound.org/people/FedeFrede/sounds/324138/  
@@ -21,9 +21,12 @@ https://freesound.org/people/Sandermotions/sounds/277022/
 
 Music:  
 
-https://www.jamendo.com/
+https://www.jamendo.com/  
 Chances  
-THE DEVIL MUSIC CO.   
+THE DEVIL MUSIC CO. 
+Written by Marshall Mckellar  
+Produced by Justin Kay  
+Liscensed under Creative Commons  
 https://www.jamendo.com/track/1586071/chances  
 
 The Nutcracker Suite: Marche
